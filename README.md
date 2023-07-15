@@ -1,0 +1,1 @@
+# m-aur2-pkgbuild
